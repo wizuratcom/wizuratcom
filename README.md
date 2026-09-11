@@ -37,5 +37,5 @@ for the result.
 
 ## Contact
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/mikhail-drozhzhin/
+- Email: wizurat59@gmail.com
